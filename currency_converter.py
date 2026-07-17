@@ -15,6 +15,8 @@ def get_exchange_rates():
 
 def convert_currency():
     print("=== Real-Time Currency Converter ===")
+    if else:
+        print("Fetching exchange rates...")
     rates = get_exchange_rates()
     
     # If the API call failed, exit early
